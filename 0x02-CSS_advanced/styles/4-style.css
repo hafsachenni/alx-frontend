@@ -18,13 +18,13 @@ h4, h5, h6{
 html{
     scroll-behavior: smooth;
 }
-body a{
+body, a{
     color: var(--text-color);
 }
 .visually-hidden{
     display: none;
 }
-.section-tagline
+.section-tagline,
 .card-category{
     color: var(--color-primary);
 }
