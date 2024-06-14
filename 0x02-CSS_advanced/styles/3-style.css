@@ -16,7 +16,7 @@ body, a{
 .visually-hidden{
     display: none;
 }
-.section-tagline
+.section-tagline,
 .card-category{
     color: var(--color-primary);
 }
