@@ -1,6 +1,6 @@
 # Advanced CSS
 
-This projects covers fundamental concepts in CSS that every web developer should understand.
+This projects covers fundamental concepts in CSS that every web developer should understand:
 
 
 ##### Selectors
