@@ -7,9 +7,7 @@ body a{
 .visually-hidden{
     display: none;
 }
-.card-category{
-    color: #D73953;
-}
+.card-category,
 .section-tagline{
     color: #D73953;
 }
