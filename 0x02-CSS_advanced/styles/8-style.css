@@ -33,13 +33,13 @@ html{
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
-body a{
+body, a{
     color: var(--text-color);
 }
 .visually-hidden{
     display: none;
 }
-.section-tagline
+.section-tagline,
 .card-category{
     color: var(--color-primary);
 }
