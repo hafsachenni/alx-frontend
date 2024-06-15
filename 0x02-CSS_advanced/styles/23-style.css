@@ -120,15 +120,6 @@ a:active{
 .footer{
     padding: var(--footer-padding);
 }
-.footer-adress{
-    color: var(--text-color);
-}
-.social-link{
-    display: block;
-}
-.social-link > svg {
-    fill: var(--text-color);
-}
 .navbar-menu{
     float: right;
 }
@@ -185,4 +176,13 @@ ul.row{
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background: var(--color-black);
+}
+.footer-address{
+    color: var(--text-color);
+}
+.social-link{
+    display: block;
+}
+.social-link svg {
+    fill: var(--text-color);
 }
