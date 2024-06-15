@@ -149,10 +149,10 @@ ul.row{
     padding: 0;
     list-style: none;
 }
-.row::after{
+.row{
     content: "";
     display: table;
-    float: none;
+    clear: both;
 }
 .col-1-3{
     width: 33.33%;
