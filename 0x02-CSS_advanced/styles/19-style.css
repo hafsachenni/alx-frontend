@@ -164,6 +164,6 @@ a:active{
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
-.col-1-2 ul{
+.footer{
     text-align: right;
 }
