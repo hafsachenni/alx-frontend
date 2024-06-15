@@ -181,11 +181,8 @@ ul.row{
     color: var(--text-color);
 }
 .social-link{
-    display: block;
+display: block;
 }
 .social-link > svg {
     fill: var(--text-color);
-}
-.social-link{
-    color: var(--text-color);
 }
