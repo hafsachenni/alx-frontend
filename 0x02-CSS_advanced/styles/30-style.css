@@ -279,7 +279,7 @@ ul.row{
     position: relative;
     overflow: hidden;
 }
-.card-work .card-image{
+.card-work .card-image img{
     height: 30rem;
     width: 100%;
     object-fit: cover;
@@ -318,3 +318,4 @@ ul.row{
 .card-work .card-title:hover{
     opacity: 1;
 }
+ 
